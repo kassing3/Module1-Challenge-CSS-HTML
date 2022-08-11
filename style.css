@@ -19,7 +19,7 @@ a {
     text-decoration: none;
 }
 
-h1 { /* Consolidated from header h1 selectors to h1 element selector  */
+h1 { /* Consolidated from header nad add NAv h1 selectors to h1 element selector  */
     display: inline-block;
     font-size: 48px;
 }
