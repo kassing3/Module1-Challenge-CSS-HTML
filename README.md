@@ -22,4 +22,5 @@ To meet these criteria, I made a series of changes that replaced HTML elements s
 When refactoring the stylesheet, I've condensed selectors by grouping elements into classes to consolidate repetitive selectors and properties. I've also updated the selectors to match the semantic HTML elements in the index.html sheet. Finally, I've arranged the selectors in the CSS file to match the flow of the HTML sheet, keeping in mind parent and child relationships.  
 
 Below is the final mockup of the refactored website:
+![Mock up of Refactored Website](https://user-images.githubusercontent.com/108312371/184554045-35953f79-5086-4bf9-b3ab-670be1e4ae3f.png)
 
