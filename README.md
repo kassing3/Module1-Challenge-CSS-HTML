@@ -24,3 +24,4 @@ When refactoring the stylesheet, I've condensed selectors by grouping elements i
 Below is the final mockup of the refactored website:
 ![Mock up of Refactored Website](https://user-images.githubusercontent.com/108312371/184554045-35953f79-5086-4bf9-b3ab-670be1e4ae3f.png)
 
+! [The Horiseon webpage with the refactored codes that reflect the header, hero image, navigation, sections, and footer.] (./assets/images/Mock up of Refactored Website.png)
